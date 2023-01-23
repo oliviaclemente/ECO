@@ -55,4 +55,4 @@ def ordenar(versos)
   return ordenar(versos, cmp=comparar)
 
 
-
+print(ordenar(verosos))
