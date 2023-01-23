@@ -14,4 +14,6 @@ class guerrero:
       print("Muerto".format(opponent.name))
       return
     if posicion == oponente.bloque:
-      prin
+      print 
+
+https://github.com/oliviaclemente/ECO.git

@@ -1,13 +1,13 @@
-def comparar(a, b)
+def comparar(a, b):
   if a == b:
     return 0
-  elif a == "12 bateristas tocando el tambor"
+  elif a == "12 bateristas tocando el tambor":
     return -1
-  elif b == "12 bateristas tocando el tambor"
+  elif b == "12 bateristas tocando el tambor":
     return 1
-  elif a == "tubería de 11 gaiteros"
+  elif a == "tubería de 11 gaiteros":
     return  -1
-   elif b == "tubería de 11 gaiteros"
+   elif b == "tubería de 11 gaiteros":
     return  1
   elif a == "10 señores un salt,":
         return -1
