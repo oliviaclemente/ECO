@@ -16,4 +16,6 @@ for num in lista:
   lista_pares.append(num)
 else:
 lista_impreas.append(num)
-  
+ return lista_pares + lista_impares
+
+def oredenar_lista
