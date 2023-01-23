@@ -7,4 +7,11 @@ class guerrero:
     self.zombie= False
     self.muerte= False
   def ataque(self, enemigo, posicion):
-    
+   if self.muerte:
+     print("Muerto")
+     return
+    if enemigo.muerte:
+      print("Muerto".format(opponent.name))
+      return
+    if posicion == oponente.bloque:
+      prin
